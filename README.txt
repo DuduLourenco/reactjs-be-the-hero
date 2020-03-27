@@ -1,0 +1,7 @@
+NODEJS,
+REACT,
+JS,
+HTML,
+CSS,
+AXIOS,
+KNEX,
